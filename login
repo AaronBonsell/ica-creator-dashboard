@@ -139,3 +139,4 @@ export default config;
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
