@@ -6,7 +6,7 @@ const Home = () => {
       <div className="text-center space-y-6">
         <h1 className="text-4xl font-bold text-indigo-600">Welcome to ICABranding</h1>
         <p className="text-lg text-gray-600">
-          Helping creators and influencers grow their personal brand through branded merchandise and
+          Helping creators and influencers grow their brands through branded merchandise and
           brand partnerships.
         </p>
 
@@ -22,5 +22,3 @@ const Home = () => {
     </div>
   );
 };
-
-export default Home;
